@@ -19,7 +19,7 @@
 			<BeMade>
 				<WorkToMake>400</WorkToMake>
 				<CostItems>
-					<Item name = "Item_LingStone" count = "10000"/>
+					<Item name = "Item_LingStone" count = "2000"/>
 				</CostItems>
 			</BeMade> 
 		</Item>
